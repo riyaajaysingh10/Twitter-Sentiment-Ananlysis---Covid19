@@ -1,0 +1,12 @@
+aws_access_key_id=""
+aws_secret_access_key=""
+vpc_region="us-east-1"
+vpc_name=""
+vpc_cidr_block=""
+vpc_public_subnet_1_cidr="10.0.1.0/24"
+ami_name = ""
+ec2name = ""
+sshkeyname = ""
+
+vpc_private_subnet_1_cidr="10.0.3.0/24"
+vpc_access_from_ip_range="0.0.0.0/0"
